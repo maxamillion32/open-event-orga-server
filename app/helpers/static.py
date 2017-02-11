@@ -79,7 +79,7 @@ EVENT_LICENCES = {
 
 EVENT_TOPICS = {
     'Health & Wellness': [
-        "Medical", "Mental health", "Other", "Personal health", "Spa", "Yoga"
+        "Other", "Personal health", "Spa", "Yoga"
     ],
     'Other': ["Avatar","Logo"],
     'Performing & Visual Arts': [
@@ -89,7 +89,7 @@ EVENT_TOPICS = {
     'Sports & Fitness': [
         "Baseball", "Basketball", "Cycling", "Exercise", "Fighting & Martial Arts",
         "Football", "Golf", "Hockey", "Motorsports", "Mountain Biking",
-        "Obstacles", "Other", "Rugby", "Running", "Snow Sports", "Soccer",
+        "Obstacles", "Other", "Paintball", "Rugby", "Running", "Snow Sports", "Soccer",
         "Swimming & Water Sports", "Tennis", "Volleyball", "Walking", "Yoga"
     ]
 }
